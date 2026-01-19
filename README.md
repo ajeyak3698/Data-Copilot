@@ -176,11 +176,6 @@ Planned enhancements:
 - A small web UI for interactive reports
 - Opinionated pipeline templates for classification, regression, and time-series tasks
 
-If you'd like to help prioritize features, open an issue or join the discussions.
-
-License
-
-This project is released under the MIT License. See LICENSE for details.
 
 Acknowledgements & credits
 
